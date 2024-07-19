@@ -1,6 +1,6 @@
 # Lunar Search Bot
 
-![Lunar Search Banner](https://example.com/banner.png) <!-- Remplacez par l'URL de votre bannière -->
+<!--![Lunar Search Banner](https://example.com/banner.png)--> <!-- Remplacez par l'URL de votre bannière -->
 
 Lunar Search est un bot Discord puissant conçu pour offrir des fonctionnalités avancées de recherche et d'information. Il permet de rechercher des données dans diverses bases de données, de consulter des détails sur les utilisateurs Discord, ainsi que des informations sur les adresses IP.
 
@@ -43,23 +43,25 @@ Pour toute question ou problème, merci de venir sur notre [serveur Discord](htt
 
 ### Développeurs
 
-<div align="center">
-  <div style="display: flex; justify-content: center; align-items: flex-start;">
-    <div style="margin-right: 20px;">
-      <a href="https://discord.com/users/1258616233159299128" style="color: white; font-weight: bold; text-decoration: none;">Vidar</a><br>
-      <img src="https://i.ibb.co/bmP3fXh/88eef5d4b828118e7dae246a6cdf9cf8.png" alt="Vidar's Photo" style="width: 100px; height: 100px; border-radius: 50%;">
-    </div>
-    <div>
-      <a href="https://discord.com/users/1258980958108123157" style="color: white; font-weight: bold; text-decoration: none;">Mahiro</a><br>
-      <img src="https://i.ibb.co/PMkJbcd/a-c03b53dc411ffba0566fdec4b5af329d.png" alt="Mahiro's Photo" style="width: 100px; height: 100px; border-radius: 50%;">
-    </div>
-  </div>
-</div>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <p><a style="color: white; font-weight: bold; text-decoration: none;">Vidar</a></p>
+      <img src="https://i.ibb.co/bmP3fXh/88eef5d4b828118e7dae246a6cdf9cf8.png" alt="Vidar's Photo" style="width: 200px; height: 200px; border-radius: 50%;">
+    </td>
+    <td style="width: 30px;"></td> <!-- Espace entre les deux colonnes -->
+    <td align="center">
+      <p><a style="color: white; font-weight: bold; text-decoration: none;">Mahiro</a></p>
+      <img src="https://i.ibb.co/PMkJbcd/a-c03b53dc411ffba0566fdec4b5af329d.png" alt="Mahiro's Photo" style="width: 200px; height: 200px; border-radius: 50%;">
+    </td>
+  </tr>
+</table>
 
 ### Photo de Profil du Bot
 
-![Lunar Search Bot](https://i.ibb.co/CbhmWyR/ab67706c0000da84cc7ec8b5518ad9f6c477c9ce.jpg) <!-- Remplacez par l'URL de la photo de profil du bot -->
+<p align="center">
+  <img src="https://i.ibb.co/CbhmWyR/ab67706c0000da84cc7ec8b5518ad9f6c477c9ce.jpg" alt="Lunar Search Bot" style="display: block; margin: 20px auto; width: 200px; height: 200px; border-radius: 50%;">
+</p>
 
 ## Date de Création
 
