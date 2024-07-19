@@ -1,6 +1,8 @@
 # Lunar Search Bot
 
-Lunar Search est un bot Discord puissant conçu pour fournir des fonctionnalités avancées de recherche et d'information. Il permet de rechercher des données dans diverses bases de données, d'obtenir des détails sur les utilisateurs Discord, ainsi que des informations sur les adresses IP.
+![Lunar Search Banner](https://example.com/banner.png) <!-- Remplacez par l'URL de votre bannière -->
+
+Lunar Search est un bot Discord puissant conçu pour offrir des fonctionnalités avancées de recherche et d'information. Il permet de rechercher des données dans diverses bases de données, de consulter des détails sur les utilisateurs Discord, ainsi que des informations sur les adresses IP.
 
 ## Fonctionnalités
 
@@ -35,7 +37,34 @@ Nous nous engageons à protéger votre vie privée. Les informations collectées
 
 ## Aide et Support
 
-[Pour toute question ou problème,merci de venir sur discord.](https://discord.gg/facNgs6gAD)
+Pour toute question ou problème, merci de venir sur notre [serveur Discord](https://discord.gg/facNgs6gAD).
+
+## Créateurs
+
+### Développeurs
+
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: flex-start;">
+    <div style="margin-right: 20px;">
+      <a href="https://discord.com/users/1258616233159299128" style="color: white; font-weight: bold; text-decoration: none;">Vidar</a><br>
+      <img src="https://i.ibb.co/bmP3fXh/88eef5d4b828118e7dae246a6cdf9cf8.png" alt="Vidar's Photo" style="width: 100px; height: 100px; border-radius: 50%;">
+    </div>
+    <div>
+      <a href="https://discord.com/users/1258980958108123157" style="color: white; font-weight: bold; text-decoration: none;">Mahiro</a><br>
+      <img src="https://i.ibb.co/PMkJbcd/a-c03b53dc411ffba0566fdec4b5af329d.png" alt="Mahiro's Photo" style="width: 100px; height: 100px; border-radius: 50%;">
+    </div>
+  </div>
+</div>
+
+
+### Photo de Profil du Bot
+
+![Lunar Search Bot](https://i.ibb.co/CbhmWyR/ab67706c0000da84cc7ec8b5518ad9f6c477c9ce.jpg) <!-- Remplacez par l'URL de la photo de profil du bot -->
+
+## Date de Création
+
+Le bot Lunar Search a été créé le **18 Juillet 2024**.
+
 ## Licence
 
 Ce projet est sous la licence [MIT License](LICENSE).
