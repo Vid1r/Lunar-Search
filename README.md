@@ -17,6 +17,8 @@ Lunar Search est un bot Discord puissant conçu pour fournir des fonctionnalité
 - `+lookup <ID>` : Obtenez des informations sur un utilisateur Discord.
 - `+scrape <ServerID>` : Scrape les informations d'un serveur FiveM.
 - `+minecraft <Pseudo MC/Email/IP>` : Recherche dans les bases de données Minecraft.
+- `+prevname <ID/@username>` : Affiche la liste des anciens pseudonymes de l'utilisateur mentionné ou de vous-même si aucun utilisateur n'est mentionné.
+- `+prevclear` : Supprime tous les anciens pseudonymes de votre historique.
 - `+restart [Only Admin]` : Redémarre le bot (accessible uniquement aux administrateurs).
 
 ## Confidentialité et Conditions d'Utilisation
