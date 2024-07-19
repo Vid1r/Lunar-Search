@@ -1,6 +1,6 @@
 # Lunar Search Bot
 
-Lunar Search est un bot Discord conçu pour fournir des fonctionnalités avancées de recherche et d'information pour les utilisateurs sur différentes plateformes et services. Ce bot peut rechercher des informations dans des bases de données Discord, Minecraft, et plus encore. Il offre également des outils pour obtenir des informations sur les adresses IP et les utilisateurs Discord.
+Lunar Search est un bot Discord puissant conçu pour fournir des fonctionnalités avancées de recherche et d'information. Il permet de rechercher des données dans diverses bases de données, d'obtenir des détails sur les utilisateurs Discord, ainsi que des informations sur les adresses IP.
 
 ## Fonctionnalités
 
@@ -12,9 +12,32 @@ Lunar Search est un bot Discord conçu pour fournir des fonctionnalités avancé
 
 ## Commandes
 
-- `+discordd <Email/ID/Numéro de tel/MDP>` : Rechercher une personne dans les bases de données Discord avec l'email, l'ID, le mot de passe ou le numéro de téléphone.
-- `+geoip <IPV4>` : Trouver les informations d'une adresse IP, y compris le ping et la localisation approximative.
-- `+lookup <ID>` : Lookup une personne avec son ID Discord.
-- `+scrape <ServerID> [VIP Only]` : Scrape les informations d'un serveur FiveM avec l'ID spécifié.
-- `+minecraft <Pseudo MC/Email/IP>` : Rechercher une personne dans les bases de données Minecraft avec le pseudo Minecraft, l'email ou l'IP.
-- `+restart [Only Admin]` : Redémarrer le bot. Accessible uniquement aux utilisateurs autorisés.
+- `+discordd <Email/ID/Numéro de tel/MDP>` : Recherche dans les bases de données Discord.
+- `+geoip <IPV4>` : Obtenez des informations sur une adresse IP.
+- `+lookup <ID>` : Obtenez des informations sur un utilisateur Discord.
+- `+scrape <ServerID>` : Scrape les informations d'un serveur FiveM.
+- `+minecraft <Pseudo MC/Email/IP>` : Recherche dans les bases de données Minecraft.
+- `+restart [Only Admin]` : Redémarre le bot (accessible uniquement aux administrateurs).
+
+## Confidentialité et Conditions d'Utilisation
+
+### Politique de Confidentialité
+
+Nous nous engageons à protéger votre vie privée. Les informations collectées par le bot sont utilisées exclusivement pour fournir les fonctionnalités demandées et ne seront jamais partagées avec des tiers.
+
+### Conditions d'Utilisation
+
+1. **Utilisation Éthique** : Utilisez ce bot de manière éthique et conforme aux lois en vigueur. L'utilisation à des fins illégales est interdite.
+2. **Propriété du Bot** : Le bot et ses fonctionnalités sont la propriété de ses créateurs. Toute utilisation commerciale ou modification du bot nécessite une autorisation préalable.
+3. **Responsabilité** : Nous ne pouvons être tenus responsables des erreurs ou dommages résultant de l'utilisation du bot. L'utilisation du bot se fait à vos propres risques.
+
+## Aide et Support
+
+[Pour toute question ou problème,merci de venir sur discord.](https://discord.gg/facNgs6gAD)
+## Licence
+
+Ce projet est sous la licence [MIT License](LICENSE).
+
+---
+
+© Lunar Search. Tous droits réservés.
